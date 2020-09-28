@@ -14,11 +14,11 @@ public class Board {
 		pieces = new Piece[row][column];
 	}
 
-	public int getRow() {
+	public int getRows() {
 		return rows;
 	}
 
-	public int getColumn() {
+	public int getColumns() {
 		return columns;
 	}
 	
